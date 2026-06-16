@@ -5,7 +5,8 @@
   "template_used": "gym-modern-dark",
   "research_path": "/Users/himalayancoder/.hermes/leads/research/fitness-villa.json",
   "demo_path": "/Users/himalayancoder/.hermes/leads/demos/fitness-villa/index.html",
-  "generated_at": "2026-06-16T07:34:08.825878+00:00",
+  "demo_url": null,
+  "generated_at": "2026-06-16T07:59:13.648718+00:00",
   "lead_source": "lead-research",
   "preview_command": "open /Users/himalayancoder/.hermes/leads/demos/fitness-villa/index.html",
   "built_by": "build_demo.py"
