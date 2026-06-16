@@ -1,11 +1,17 @@
 {
-  "updated_at": "2026-06-16T07:59:13.746308+00:00",
+  "updated_at": "2026-06-16T16:58:41.268875+00:00",
   "demos": {
     "fitness-villa": {
       "slug": "fitness-villa",
       "template_used": "gym-modern-dark",
       "published_at": "2026-06-16T07:59:13.746315+00:00",
       "path": "demos/fitness-villa/index.html"
+    },
+    "bulls-legacy-gym": {
+      "slug": "bulls-legacy-gym",
+      "template_used": "gym-modern-dark",
+      "published_at": "2026-06-16T16:58:41.268878+00:00",
+      "path": "demos/bulls-legacy-gym/index.html"
     }
   }
 }
