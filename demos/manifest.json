@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16T07:57:59.773498+00:00",
+  "demos": {
+    "fitness-villa": {
+      "slug": "fitness-villa",
+      "template_used": "gym-modern-dark",
+      "published_at": "2026-06-16T07:57:59.773501+00:00",
+      "path": "demos/fitness-villa/index.html"
+    }
+  }
+}
