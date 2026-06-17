@@ -2,11 +2,11 @@
   "business": "Arushi Beauty Parlour",
   "city": "Uttarkashi",
   "category": "Beauty Salon",
-  "template_used": "salon-aesthetic",
+  "template_used": "salon-chocolate",
   "research_path": "/Users/himalayancoder/.hermes/leads/research/arushi-beauty-parlour.json",
   "demo_path": "/Users/himalayancoder/.hermes/leads/demos/arushi-beauty-parlour/index.html",
   "demo_url": null,
-  "generated_at": "2026-06-16T17:20:59.920032+00:00",
+  "generated_at": "2026-06-17T17:26:12.993720+00:00",
   "lead_source": "lead-research",
   "preview_command": "open /Users/himalayancoder/.hermes/leads/demos/arushi-beauty-parlour/index.html",
   "built_by": "build_demo.py"

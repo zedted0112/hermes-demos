@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T17:21:11.048366+00:00",
+  "updated_at": "2026-06-17T17:27:25.901772+00:00",
   "demos": {
     "fitness-villa": {
       "slug": "fitness-villa",
@@ -15,8 +15,8 @@
     },
     "arushi-beauty-parlour": {
       "slug": "arushi-beauty-parlour",
-      "template_used": "salon-aesthetic",
-      "published_at": "2026-06-16T17:21:11.048369+00:00",
+      "template_used": "salon-chocolate",
+      "published_at": "2026-06-17T17:27:25.901775+00:00",
       "path": "demos/arushi-beauty-parlour/index.html"
     }
   }
